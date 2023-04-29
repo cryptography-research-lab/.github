@@ -9,6 +9,11 @@
 古典加密：
 
 - [ROT](https://github.com/cryptography-research-lab/go-ROT)
+- [猪圈密码](https://github.com/cryptography-research-lab/go-pigpen-cipher)
+- [敲击码(Tap code)编码](https://github.com/cryptography-research-lab/go-Tap-code-encode)
+- [UUencode编码](https://github.com/cryptography-research-lab/go-UUencode)
+- [XXencode编码](https://github.com/cryptography-research-lab/go-XXencode)
+- [Quoted-Printable编码](https://github.com/cryptography-research-lab/go-quoted-printable)
 
 随机数：
 - [线性同余LCG](https://github.com/cryptography-research-lab/go-LCG)
