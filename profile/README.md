@@ -15,6 +15,9 @@
 - [XXencode编码](https://github.com/cryptography-research-lab/go-XXencode)
 - [Quoted-Printable编码](https://github.com/cryptography-research-lab/go-quoted-printable)
 
+分组加密：
+- [Triple DES](https://github.com/cryptography-research-lab/go-Triple-DES)
+
 随机数：
 - [线性同余LCG](https://github.com/cryptography-research-lab/go-LCG)
 
