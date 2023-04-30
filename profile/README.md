@@ -20,6 +20,7 @@
 
 随机数：
 - [线性同余LCG](https://github.com/cryptography-research-lab/go-LCG)
+- [平方取中法](https://github.com/cryptography-research-lab/middle-square-method)
 
 电码：
 - [Morse Code](https://github.com/cryptography-research-lab/go-morse-code)
