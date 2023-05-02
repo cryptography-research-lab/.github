@@ -18,6 +18,9 @@
 分组加密：
 - [Triple DES](https://github.com/cryptography-research-lab/go-Triple-DES)
 
+流式加密：
+- [RC4](https://github.com/cryptography-research-lab/go-RC4)
+
 随机数：
 - [线性同余LCG](https://github.com/cryptography-research-lab/go-LCG)
 - [平方取中法](https://github.com/cryptography-research-lab/middle-square-method)
